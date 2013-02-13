@@ -4,8 +4,14 @@
 package jp.co.koya;
 
 /**
+ *  <p>
+ *  映画クラス
+ *  </p>
+ * <p>
+ *  データ保持用クラス
+ *  </p>
  * @author k_nori-yagi
- *
+ * 
  */
 public class Movie {
 	public static final int CHILDRENS = 2;

@@ -4,6 +4,12 @@
 package jp.co.koya;
 
 /**
+ *  <p>
+ *  レンタルクラス
+ *  </p>
+ * <p>
+ *  顧客がビデオを借りた事が分かる。
+ *  </p>
  * @author k_nori-yagi
  *
  */
